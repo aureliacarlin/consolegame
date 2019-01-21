@@ -1,0 +1,7 @@
+C:\Users\Aurelia Carlin\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Aurelia Carlin\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Aurelia Carlin\source\repos\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Aurelia Carlin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Aurelia Carlin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Aurelia Carlin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Aurelia Carlin\source\repos\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
